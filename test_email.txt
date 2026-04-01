@@ -1,0 +1,6 @@
+From: security@paypal.com
+Reply-To: hacker@evil.com
+Subject: Urgent: Verify your account now
+Dear customer, you must click here to confirm
+your account or it will be suspended. Act now!
+Limited time to verify your details.
