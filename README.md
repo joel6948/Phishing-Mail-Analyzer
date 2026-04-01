@@ -3,8 +3,7 @@
 A Command line tool to Analyze a mail wheather it 
 is Phising mail or not 
 ## Why use it 
-It is used for checking wheather a mail is 
-mailicous or not
+It is used for checking  whether a mail is  malicious or not
 ## How to Run It
 python Chekcer.py "test_email.txt"(use any email file instead of it)
 ## Expected Output
